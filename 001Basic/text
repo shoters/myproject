@@ -23,7 +23,7 @@
   <![endif]-->
 
   <!-- Add your site or application content here -->
-  <img src="./001Basic/0.jpg"/>
+  <img src="0.jpg"/>
   <h>静夜思</h>
   <p>哇咔咔咔咔</p>
   <script src="js/vendor/modernizr-3.7.1.min.js"></script>
